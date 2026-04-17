@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Fun Facts Quiz App</string>
+    <string name="quiz_title">Fun Facts Quiz</string>
+    <string name="quiz_description">Answer three true-or-false fun facts and see how well you score.</string>
+    <string name="start">Start</string>
+    <string name="true_label">True</string>
+    <string name="false_label">False</string>
+    <string name="next">Next</string>
+    <string name="review">Review</string>
+    <string name="hide_review">Hide Review</string>
+    <string name="play_again">Play Again</string>
+    <string name="question_progress">Question %1$d of %2$d</string>
+    <string name="correct_feedback">Correct! %1$s</string>
+    <string name="wrong_feedback">Wrong! %1$s</string>
+    <string name="score_message">Score: %1$d/%2$d</string>
+    <string name="answer_before_next">Please answer the question first.</string>
+</resources>
