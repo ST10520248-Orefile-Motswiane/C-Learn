@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Grade Calculator App</string>
+    <string name="grade_calculator_title">Grade Calculator</string>
+    <string name="grade_calculator_description">Enter a mark out of 100 and check the grade and feedback.</string>
+    <string name="mark_hint">Enter a mark out of 100</string>
+    <string name="language_switch_label">Show feedback in Afrikaans</string>
+    <string name="check_grade">Check Grade</string>
+    <string name="grade_label">Grade: %1$s</string>
+    <string name="feedback_label">Feedback: %1$s</string>
+    <string name="error_valid_mark_required">Please enter a mark from 0 to 100.</string>
+</resources>
