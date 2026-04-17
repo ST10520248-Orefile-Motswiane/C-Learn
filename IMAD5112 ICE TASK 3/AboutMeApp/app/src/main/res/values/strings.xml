@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">About Me App</string>
+    <string name="about_me_title">About Me</string>
+    <string name="about_me_description">Enter your name and age, then view your profile on the next screen.</string>
+    <string name="name_hint">Enter your name</string>
+    <string name="age_hint">Enter your age</string>
+    <string name="show_profile">Show Profile</string>
+    <string name="birth_year_message">You were born in %1$d.</string>
+    <string name="error_name_required">Please enter your name.</string>
+    <string name="error_valid_age_required">Please enter a valid age.</string>
+    <string name="error_profile_data_missing">No profile data was found.</string>
+</resources>
